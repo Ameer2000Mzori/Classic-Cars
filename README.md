@@ -1,4 +1,4 @@
-# This project is canacled or pauzed temporarily
+# This project is canacled
 
 ![alt text](./sample/1.png)
 
